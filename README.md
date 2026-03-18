@@ -1,5 +1,3 @@
-<div align="center">
-
 # ✨ Hi, I'm Yurim!
 
 **웹 디자이너 & 프론트엔드 개발자**
@@ -7,8 +5,6 @@
 디자인부터 퍼블리싱, 프론트엔드 개발까지 폭넓게 다루는 개발자입니다.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-667eea?style=for-the-badge)](https://yurim-web.github.io)
-
-</div>
 
 ---
 
@@ -33,16 +29,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yurim-web&show_icons=true&theme=calm&hide_border=true" height="165"/>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurim-web&layout=compact&theme=calm&hide_border=true" height="165"/>
 </p>
 
 ---
 
-<div align="center">
-
 [![Email](https://img.shields.io/badge/Email-lyl5152@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:lyl5152@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yurim--web-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yurim-web)
-
-</div>
