@@ -4,7 +4,6 @@
 
 디자인부터 퍼블리싱, 프론트엔드 개발까지 폭넓게 다루는 개발자입니다.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-667eea?style=for-the-badge)](https://yurim-web.github.io)
 
 ---
 
